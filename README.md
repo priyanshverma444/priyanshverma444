@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Verma</h1>
 <h3 align="center">A passionate Full-Stack Developer and CP Enthusiast</h3>
 
-- 🔭 I’m currently working on [Superstore-360](https://superstore360.vercel.app/)
+- 🔭 I’m currently working on [VedaBot](https://vedabot.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
